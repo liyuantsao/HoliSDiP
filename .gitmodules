@@ -1,0 +1,6 @@
+[submodule "Mask2Former"]
+	path = Mask2Former
+	url = https://github.com/facebookresearch/Mask2Former/tree/9b0651c6c1d5b3af2e6da0589b719c514ec0d69a
+[submodule "detectron2"]
+	path = detectron2
+	url = https://github.com/facebookresearch/detectron2.git

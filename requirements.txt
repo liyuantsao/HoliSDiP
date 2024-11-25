@@ -1,0 +1,16 @@
+diffusers==0.21.0
+pytorch_lightning
+accelerate==0.31.0
+xformers==0.0.27
+loralib
+fairscale
+pydantic==1.10.11
+gradio==3.24.0
+scipy
+timm
+omegaconf
+opencv-python
+datasets
+transformers==4.45.0
+huggingface-hub==0.24.0
+einops
