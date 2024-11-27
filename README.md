@@ -7,7 +7,7 @@ This is the official repository of **"HoliSDiP: Image Super-Resolution via Holis
 
 [Li-Yuan Tsao](https://liyuantsao.github.io/), [Hao-Wei Chen](https://scholar.google.com/citations?user=cpOf3qMAAAAJ&hl=en), [Hao-Wei Chung](https://www.linkedin.com/in/haowei-chung/), [Deqing Sun](https://deqings.github.io/), [Chun-Yi Lee](https://elsalab.ai/), [Kelvin C.K. Chan](https://ckkelvinchan.github.io/), [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/)
 
-[arXiv (soon)] [Project Page (soon)]
+[arXiv (soon)] [[Project Page](https://liyuantsao.github.io/HoliSDiP/)]
 ## Overview
 Existing pre-trained text-to-image diffusion model-based Real-ISR methods may produce unintended results due to noisy text prompts and their lack of spatial information. In this paper, we present HoliSDiP, a framework that leverages semantic segmentation to provide both precise textual and spatial guidance for diffusion-based Real-ISR. Our method employs semantic labels as concise text prompts while introducing dense semantic guidance through segmentation masks and our proposed Segmentation-CLIP Map, achieving significant improvement in image quality across various Real-ISR scenarios through reduced prompt noise and enhanced spatial control.
 
