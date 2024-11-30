@@ -93,4 +93,4 @@ python test.py --holisdip_model_path preset/models/HoliSDiP  --image_path <TEST_
 If you have any question, please feel free to send message to `lytsao@gapp.nthu.edu.tw`
 
 ## :star2: Acknowledgements
-Our project are built on [SeeSR](https://github.com/cswry/SeeSR) and [Mask2Former](https://github.com/facebookresearch/Mask2Former), with some codes borrowed from [SPADE](https://github.com/NVlabs/SPADE), we appriciate their amazing works that advance this community. 
+Our project is built on [SeeSR](https://github.com/cswry/SeeSR) and [Mask2Former](https://github.com/facebookresearch/Mask2Former), with some codes borrowed from [SPADE](https://github.com/NVlabs/SPADE). We appriciate their amazing works that advance this community. 
