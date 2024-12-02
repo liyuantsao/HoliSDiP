@@ -7,7 +7,7 @@ This is the official repository of **"HoliSDiP: Image Super-Resolution via Holis
 
 [Li-Yuan Tsao](https://liyuantsao.github.io/), [Hao-Wei Chen](https://scholar.google.com/citations?user=cpOf3qMAAAAJ&hl=en), [Hao-Wei Chung](https://www.linkedin.com/in/haowei-chung/), [Deqing Sun](https://deqings.github.io/), [Chun-Yi Lee](https://elsalab.ai/), [Kelvin C.K. Chan](https://ckkelvinchan.github.io/), [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/)
 
-[arXiv (soon)] [[Project Page](https://liyuantsao.github.io/HoliSDiP/)]
+[![arXiv](https://img.shields.io/badge/arXiv-2411.18662-b31b1b.svg?style=plastic)](http://arxiv.org/abs/2411.18662)
 
 * We also release our evaluation code at [SR-IQA](https://github.com/liyuantsao/SR-IQA) to facilitate fair comparisons between (real-world) image super-resolution papers.
 ## Overview
@@ -91,6 +91,17 @@ python test.py --holisdip_model_path preset/models/HoliSDiP  --image_path <TEST_
 
 ## :mailbox_with_mail: Contact
 If you have any question, please feel free to send message to `lytsao@gapp.nthu.edu.tw`
+
+## :chart_with_upwards_trend: Citation
+If you find our work helpful for your research, we would greatly appreciate your assistance in sharing it with the community and citing it using the following BibTex. Thank you for supporting our research.
+```
+@article{tsao2024holisdip,
+  title={HoliSDiP: Image Super-Resolution via Holistic Semantics and Diffusion Prior},
+  author={Li-Yuan Tsao and Hao-Wei Chen and Hao-Wei Chung and Deqing Sun and Chun-Yi Lee and Kelvin C. K. Chan and Ming-Hsuan Yang},
+  journal={arXiv preprint arXiv:2411.18662},
+  year={2024}
+}
+```
 
 ## :star2: Acknowledgements
 Our project is built on [SeeSR](https://github.com/cswry/SeeSR) and [Mask2Former](https://github.com/facebookresearch/Mask2Former), with some codes borrowed from [SPADE](https://github.com/NVlabs/SPADE). We appriciate their amazing works that advance this community. 
