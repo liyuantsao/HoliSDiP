@@ -13,7 +13,7 @@ This is the official repository of **"HoliSDiP: Image Super-Resolution via Holis
 ## Overview
 Existing pre-trained text-to-image diffusion model-based Real-ISR methods may produce unintended results due to noisy text prompts and their lack of spatial information. In this paper, we present HoliSDiP, a framework that leverages semantic segmentation to provide both precise textual and spatial guidance for diffusion-based Real-ISR. Our method employs semantic labels as concise text prompts while introducing dense semantic guidance through segmentation masks and our proposed Segmentation-CLIP Map, achieving significant improvement in image quality across various Real-ISR scenarios through reduced prompt noise and enhanced spatial control.
 
-<img src="./figs/concept_others.png" alt="concept Image" width="45%"> &nbsp; &nbsp; <img src="./figs/concept_ours.png" alt="concept Image" width="50%" align="right">
+<img src="./figs/concept.png" alt="concept Image" width="90%">
 
 ## :wrench: Dependencies and Installation
 **Requirements**
