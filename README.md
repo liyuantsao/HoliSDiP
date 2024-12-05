@@ -97,7 +97,7 @@ If you find our work helpful for your research, we would greatly appreciate your
 ```
 @article{tsao2024holisdip,
   title={HoliSDiP: Image Super-Resolution via Holistic Semantics and Diffusion Prior},
-  author={Li-Yuan Tsao and Hao-Wei Chen and Hao-Wei Chung and Deqing Sun and Chun-Yi Lee and Kelvin C. K. Chan and Ming-Hsuan Yang},
+  author={Tsao, Li-Yuan and Chen, Hao-Wei and Chung, Hao-Wei and Sun, Deqing and Lee, Chun-Yi and Chan, Kelvin CK and Yang, Ming-Hsuan},
   journal={arXiv preprint arXiv:2411.18662},
   year={2024}
 }
